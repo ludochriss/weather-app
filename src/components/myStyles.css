@@ -1,0 +1,70 @@
+.primary-text{
+
+    color:black;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.location-text{
+    color:black;
+    font-family: monospace;
+}
+.label-text{
+
+    color:black;
+    font-family:cursive
+
+}
+.body-text{
+    color:black;
+    font-family: cursive;
+}
+.body{
+  background-image: url(../images/clouds.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.transparent{
+    background-color: 'rgba(52, 52, 52, alpha)';
+}
+.accordion{
+    background-image: 'transparent';
+    background: 'transparent';
+}
+
+.forecast{
+        margin-top: 15px;
+        display: flex;      
+        flex-direction: row;
+        justify-content:space-evenly;
+        background: 'transparent';
+       
+}
+.small-container{
+    background-color: 'rgba(52, 52, 52, alpha)';
+      border-top-width: 3;
+        border-color: black;
+        border-style: solid;
+        /* padding: 20px; */
+        margin: 10px;
+    }
+    .accordion-text{
+        color: black;
+        font-family: cursive;
+    }
+    .time-container{
+        border-top-width: 3;
+        border-color: black;
+        border-style: solid;
+        padding-bottom: 20px;
+
+    }
+    .practise{
+        font-weight: bolder;
+        color: chocolate;
+    }
+    .daily-forecast-container{
+        justify-content: space-evenly;
+
+    }
+
+    
